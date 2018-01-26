@@ -1,2 +1,1 @@
-# Lexan
-Lexical analyzer using myauka
+# lingua
